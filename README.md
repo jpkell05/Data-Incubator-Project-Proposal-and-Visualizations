@@ -1,2 +1,2 @@
 # Data-Incubator-Project-Proposal-and-Visualizations
-This repository contains a data science project proposal for the data incubator fellowship.
+This repository contains a data science project proposal for the data incubator fellowship. There are three files. One is a python notebook that contains the project proposal and the code for generating two visualization that help illustrate the project. The other two files are the visuals. The data set used in the code in the python notebook can be found at https://blog.thedataincubator.com/2018/08/2018-data-sources-data-science-projects/ (you need to supply an email address to get the data). 
